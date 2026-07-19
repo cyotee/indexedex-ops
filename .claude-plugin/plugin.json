@@ -1,0 +1,6 @@
+{
+  "name": "indexedex-ops",
+  "description": "IndexedEx agent cast runbooks: registry discovery, Standard Exchange, Balancer SE router, DETF user flows",
+  "version": "0.1.0",
+  "author": { "name": "cyotee" }
+}
