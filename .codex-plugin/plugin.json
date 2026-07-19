@@ -1,0 +1,23 @@
+{
+  "name": "indexedex-ops",
+  "version": "0.1.0",
+  "description": "IndexedEx agent cast runbooks: registry discovery, Standard Exchange, Balancer SE router, DETF user flows",
+  "author": {
+    "name": "cyotee"
+  },
+  "keywords": [
+    "indexedex",
+    "detf",
+    "vault",
+    "cast",
+    "agent"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "indexedex-ops",
+    "shortDescription": "IndexedEx agent cast runbooks: registry discovery, Standard Exchange, Balancer SE router, DETF user flows",
+    "longDescription": "IndexedEx agent cast runbooks: registry discovery, Standard Exchange, Balancer SE router, DETF user flows",
+    "category": "Defi",
+    "developerName": "cyotee"
+  }
+}
