@@ -7,6 +7,13 @@ description: >
 
 # IndexedEx agent checklist
 
+## Goal
+Run pre-flight checks before any IndexedEx write.
+
+## Inspect
+Confirm chain, addresses, and prerequisites before acting.
+
+
 ## Pre-flight (mandatory)
 
 1. **Plugins:** `foundry-agent` installed; `indexedex-ops` loaded

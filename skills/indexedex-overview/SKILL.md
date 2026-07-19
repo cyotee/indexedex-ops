@@ -7,6 +7,13 @@ description: >
 
 # IndexedEx overview (agents)
 
+## Safety
+Prefer read-only first; require user confirmation for any write.
+
+## Verify
+Re-check state after any write; confirm receipts when broadcasting.
+
+
 ## Goal
 Know which surface to call for a user intent.
 
